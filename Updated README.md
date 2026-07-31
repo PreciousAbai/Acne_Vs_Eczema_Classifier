@@ -48,3 +48,4 @@ The model was trained using the MSC-6 Skin Condition Dataset from Kaggle, using 
 - Improve accuracy with more training data.
 - Support additional skin diseases.
 - Enhance confidence threshold handling.
+  
