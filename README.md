@@ -27,7 +27,7 @@ Acne_vs_Eczema/
 │── requirements.txt
 │── README.md
 
-## How to Run
+## How To Run
 
 Install dependencies:
 
